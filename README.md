@@ -1,6 +1,6 @@
-# nextlevel
+# nextlevelNews
 
-A new Flutter project.
+A new Gaming News App build with Flutter.
 
 ## Getting Started
 
